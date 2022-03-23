@@ -1,5 +1,18 @@
-## App weather
+# App weather
 
-###### App weather with JavaScript (Vanilla JavaScript [Weather API](https://openweathermap.org/api))
+## Table of Contents
 
-![img app](https://ll-testing.ru/F-Up/img/weather.jpg)
+- [About](#about)
+- [Usage](#usage)
+
+## About <a name = "about"></a>
+
+App weather with JavaScript (Vanilla JavaScript [Weather API](https://openweathermap.org/api))
+
+![img app](https://ll-testing.ru/img-prodject/weather-app-default.png)
+
+## Usage <a name = "usage"></a>
+
+Сhange the unit of temperature measurement by clicking
+
+![img app](https://ll-testing.ru/img-prodject/weather-app.png)

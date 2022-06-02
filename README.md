@@ -9,10 +9,10 @@
 
 App weather with JavaScript (Vanilla JavaScript [Weather API](https://openweathermap.org/api))
 
-![img app](https://ll-testing.ru/img-prodject/weather-app-default.png)
+![img app](http://test-developer.ru/preview/weather-app-default.png)
 
 ## Usage <a name = "usage"></a>
 
 Сhange the unit of temperature measurement by clicking
 
-![img app](https://ll-testing.ru/img-prodject/weather-app.png)
+![img app](http://test-developer.ru/preview/weather-app.png)

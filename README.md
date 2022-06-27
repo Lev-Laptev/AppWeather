@@ -1,5 +1,7 @@
 # App weather
 
+### View: [Click](https://vanilla-js-app-weather.netlify.app/)
+
 ## Table of Contents
 
 - [About](#about)

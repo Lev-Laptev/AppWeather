@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     function getWeather(latitude, longitude) {
-        let api = `http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${KEY}&lang=en`;
+        let api = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${KEY}&lang=en`;
     
         fetch(api)
             .then(function(response) {
